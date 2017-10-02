@@ -7,7 +7,8 @@ cover only basic cases, more coverage needs to be implemented, PR's welcome.
 
 ## Usage
 
-
+This package provides the `com.wsscode.test.chuck.core/string-from-regex`, this version is CLJC and will use the original
+`string-from-regex` to Clojure and the one implemented here for CLJS.
 
 ## License
 
